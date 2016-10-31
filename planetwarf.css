@@ -1,0 +1,112 @@
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 60pt;
+	font-family: 'Creepster', cursive;
+	margin-top: 50px;
+}
+
+
+
+
+body {
+	background: url(http://wallpapercave.com/wp/0Xf6Hpa.jpg);
+}
+#worldgif {margin-left: 480px;
+
+
+}
+#opener{
+	color: red;
+	font-size: 17pt;
+	text-align: center;
+	margin-left: 60px;
+	margin-right: 60px;
+	background-color: rgba(0,0,0,.7);
+	font-family: copperplate;
+}
+
+
+li{
+	color: red;
+	font-size: 20pt;
+	margin-top: 40px;
+}
+ol{
+	margin-top: 20px;
+	background-color: rgba(0,0,0,.7);
+	display: inline-block;
+	padding: 0 30px 0 60px;
+	margin-bottom: 40px;
+}
+
+
+#list {
+	margin-left: 450px;
+	font-family: copperplate;
+}
+
+
+.big{
+	font-family: 'Creepster', cursive;
+	color: green;
+	font-weight: bold;
+}
+
+
+table {
+	width: 500px;
+	height: 400px;
+	margin-left: 340px;
+	margin-top: 30px;
+}
+td{
+	border: 6px solid red;
+	text-align: center;
+	color: red;
+	background-color: rgba(0,0,0,.7);
+	
+}
+#Ellie:hover{
+	background-image: url(http://67.media.tumblr.com/ee1494667e7450e44b7ac57dc5c0029e/tumblr_obg4h4IXr71ttd277o1_1280.jpg);
+	background-size: cover;
+	
+}
+
+
+#LaTremble:hover{
+	background-image: url(http://66.media.tumblr.com/79c12c9d62d0c5058aec941fbe4f3298/tumblr_o7fw7qgwrs1qezckco7_500.jpg);
+	background-size: cover;
+ 
+}
+#TheTorso:hover{
+	background-image: url(http://rs1234.pbsrc.com/albums/ff420/saowsaow/tumblr_mdy8oxxjhd1rwsdu5o1_400.gif~c200);
+
+
+}
+#Joanie:hover{
+	background-image: url(http://66.media.tumblr.com/0e52d04d34df3e725feb02cb51ef93aa/tumblr_nbjzw6Rbx61rpcdjeo5_400.jpg);
+background-size: cover;
+
+
+}
+#headerfour {
+	color: red;
+	font-size: 40px;
+	margin-top: 70px;
+	font-family: copperplate;
+	margin-left: 270px;}
+
+
+a{
+color: red;
+text-decoration: none;
+}
+
+
+li:hover{
+	background-color: white;
+	
+}
+
+

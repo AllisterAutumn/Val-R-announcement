@@ -1,0 +1,383 @@
+header {
+	background: url("http://cdn.pcwallart.com/images/autumn-leaf-black-and-white-wallpaper-1.jpg");
+}
+
+
+
+
+
+
+
+
+#house {
+	margin: 15px 0 30px 600px;
+	border-radius: 100%;
+	border: 10px solid rgb(85, 3, 3);
+}
+
+
+
+
+
+
+
+
+#title {
+	text-align: center;
+	color: rgb(182, 149, 17);
+	padding: 30px;
+	margin: 0 40px 0 30px;
+	font-weight: 500;
+	font-family: courier;
+	font-size: 45pt;
+	background-color: rgba(126, 14, 26,.5);
+	
+}
+
+
+
+
+
+
+
+
+body {
+	background: -webkit-linear-gradient(bottom,rgba(103, 4, 4,1  ),rgba(0, 0, 0,.6));
+	background-size: center;}
+
+
+
+
+
+
+
+
+h2 {
+	color: rgb(164, 130, 40);
+	font-size: 24pt;
+	font-family: courier;
+}
+
+
+
+
+
+
+
+
+p {color: rgb(164, 130, 40);
+	font-family: courier;
+	padding-right: 50px;
+	padding-left: 70px;
+	padding-top: 10px;
+	font-size: 15pt;
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+h3 {
+	font-size: 20pt;
+	font-family: courier;
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+li {
+	display: inline;
+	font-size:15pt;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 50px;
+	padding-right: 40px;
+	font-family: courier;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {background-color: rgba(126, 14, 26,1);
+	text-align: center;
+	padding: 0 100px 1px 220px;
+}
+
+
+
+
+
+
+
+
+h4 {
+	font-family: courier;
+	margin-top: 30px;
+	margin-left: 60px;
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+a {
+	color: black;
+	background-color: rgba(119, 118, 117,1  ) ;
+	text-decoration: none;
+	padding-top: 4px;
+	padding-bottom: -4px;
+	margin-right: -5px;
+	padding-bottom: 2px;
+}
+
+
+
+
+
+
+
+
+a:hover {background-color: rgba(126, 14, 26,1);
+	}
+
+
+
+
+
+
+
+
+footer {
+	background-color: rgba(126, 14, 26,1);
+	text-align: center;
+	font-size: 14pt;
+	padding: 20px 20px 5px 20px;
+	margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+#cover {
+	margin-top: 30px;
+	margin-right: 100px;
+	margin-left: 5%;
+	}
+
+
+
+
+
+
+
+
+#summary {
+	background-color: rgba(126, 14, 26,.5);
+	width: 78%;
+	margin-top: 40px;
+	padding-bottom: 50px;
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#blurb {
+	display: inline-block;
+	width: 45%;
+margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+#excerpt{
+	display: inline-block;
+	width: 29%;
+	border-left: 5px solid orange;
+	margin-left: 90px;
+	padding-left:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#blurb1{
+	padding-left: 30px;
+	padding-right: 40px;
+}
+
+
+
+
+
+
+
+
+#hblurb {
+	padding-left: 50px;
+	font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#excerpt1 {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+
+
+
+
+
+
+
+#hexcerpt {
+	padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+#laster { margin-top: 50px;
+margin-left: 10px }
+
+
+
+
+
+
+
+
+#ad {
+	position: absolute;
+	border: 2px solid black;
+	height: 900px;
+	width: 200px;
+	margin-left: 82%;
+	margin-top: -1000px;
+	background: url(http://deskbg.com/i/c/750x422/wpp/11/11634/cosmos-desktop-background.jpg);
+	padding: 0;
+	color: black;
+}
+
+
+
+
+#wharf {
+	color: red;
+	padding-left: 5px;
+	padding-right: 0;
+	text-align: center;
+	font-size: 18pt;
+}
+
+
+
+
+#world {
+	width: 195px;
+}
+
+
+
+
+#copyright{
+	color: red;
+	margin-top: 170px;
+	margin-left: 10px;
+}
+
+
+
+
+#wharfimage {background-color: rgba(0, 0, 0,.0) ;
